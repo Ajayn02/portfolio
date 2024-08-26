@@ -1,0 +1,19 @@
+.work{
+    margin: 0px 0px 100px 0px;
+}
+.cards{
+    width: 250px;
+    margin-top: 40px;
+}
+.cols{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+
+}
+.rows{
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid black; */
+}

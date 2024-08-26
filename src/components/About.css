@@ -1,0 +1,30 @@
+.about{
+   margin-top: 50px ;
+   margin-bottom: 100px;
+}
+
+.abtcol1{
+    text-align: justify;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.abtcol2{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.abtcol2 img{
+    width: 100%;
+    height: 100%;
+}
+.abtrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 50px; */
+    /* border: 1px solid black; */
+
+}
